@@ -14,5 +14,5 @@
 
 
 #### 확인:
-- [ ] **@JimJeon**
+- [ ] @JimJeon
 - [ ] @Assignee
